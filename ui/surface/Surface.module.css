@@ -1,0 +1,13 @@
+.surface {
+  border-radius: 5px;
+  border: 1px solid #222;
+  padding: 16px;
+}
+
+.primary {
+  background: #005dab;
+}
+
+.secondary {
+  background: pink;
+}

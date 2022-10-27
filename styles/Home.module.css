@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+.surface {
+  font-size: 20px;
+}
+
 .footer {
   display: flex;
   flex: 1;

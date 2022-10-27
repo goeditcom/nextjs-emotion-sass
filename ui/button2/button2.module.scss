@@ -1,0 +1,16 @@
+$colors: (
+  'primary': hotpink,
+  'secondary': blue,
+);
+
+@each $name, $value in $colors {
+  .bg-#{$name} {
+    background: $value;
+  }
+
+  .fn-#{$name} {
+    color: $value;
+  }
+}
+
+
